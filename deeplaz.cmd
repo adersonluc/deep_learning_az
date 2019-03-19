@@ -1,0 +1,1 @@
+deeplaz\Scripts\activate && python -m notebook
